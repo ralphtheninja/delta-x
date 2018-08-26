@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/v/deltachat-cli.svg)](https://www.npmjs.com/package/deltachat-cli)
 [![Build Status](https://travis-ci.org/deltachat/deltachat-cli.svg?branch=master)](https://travis-ci.org/deltachat/deltachat-cli)
 ![Node version](https://img.shields.io/node/v/deltachat-cli.svg)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/deltachat/deltachat-cli.svg)](https://greenkeeper.io/)
 
 Experimental application built on top of the [`deltachat-node`](https://github.com/deltachat/deltachat-node) native addon. Bringing E2EE chat over email to the commmand line.
 
